@@ -1,0 +1,4 @@
+python3-dateutil: copyright-without-copyright-notice
+python3-dateutil: initial-upload-closes-no-bugs
+python3-dateutil: no-manual-page
+python3-dateutil: zero-byte-file-in-doc-directory

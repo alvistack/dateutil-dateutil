@@ -1,0 +1,4 @@
+python-dateutil source: file-without-copyright-information
+python-dateutil source: no-debian-changes
+python-dateutil source: source-contains-prebuilt-windows-binary
+python-dateutil source: source-package-encodes-python-version
